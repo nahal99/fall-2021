@@ -1,7 +1,5 @@
 # fall-2021
 
-# fall-2021
-
 **Network Programming (SWE 242P) - Java**
 -Developed client-server model socket communication on top of TCP and UDP.
 -Resolved unreliability and data size limit of UDP by modifying break-down data chunks and implementing additional acknowledgement messages between client and serves to realize reliable network file server
